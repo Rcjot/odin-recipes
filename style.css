@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace  ;
+}
+
+h1,
+.head {
+    color:goldenrod;
+}
+
+h3,
+h2{
+    color: brown;
+}
+
