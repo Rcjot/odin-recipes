@@ -1,5 +1,7 @@
 * {
     font-family: 'Courier New', Courier, monospace  ;
+    margin: 0;
+    padding: 0;
 }
 
 h1,
@@ -10,5 +12,35 @@ h1,
 h3,
 h2{
     color: brown;
+}
+
+.boxhead {
+    /* border: 2px solid red; */
+    background-color:beige;
+    margin: 25px;
+    margin-left: 120px;
+    margin-top: 40px;
+    padding: 10px;
+    width: 250px;
+    /* display: inline; */
+}
+
+.boxlist {
+    /* border: 2px solid red; */
+    background-color: antiquewhite;
+    margin: 40px;
+    margin-left: 75px;
+    padding: 20px;
+    width: 250px;
+}
+
+.boximg {
+    /* border: 2px solid red; */
+    margin:0px;
+    margin-left: 20px;
+    float: left;
+    position: relative;
+    bottom: 8px;
+    
 }
 
